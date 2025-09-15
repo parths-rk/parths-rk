@@ -68,9 +68,9 @@
 
 ### Software Engineering Practices
 <p align="left">
-<img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Agile: Scrum"/>
-<img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Test-Driven Development"/>
-<img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Behavior-Driven Development"/>
+<img src="https://img.shields.io/badge/Agile:Scrum-F5788D.svg?style=for-the-badge&logo=Agile&logoColor=white" alt="Agile: Scrum"/>
+<img src="https://img.shields.io/badge/Behavior-Driven Development-F5788D.svg?style=for-the-badge&logo=Test-Driven Development&logoColor=white" alt="Test-Driven Development"/>
+<img src="https://img.shields.io/badge/Behavior-Driven Development-F5788D.svg?style=for-the-badge&logo=Behavior-Driven Development&logoColor=white" alt="Behavior-Driven Development"/>
 </p>
 
 ---
