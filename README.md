@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 
 - 🚀 DevOps & Cloud Engineer (Hands-on with real infrastructure projects)
-- 🔭 Currently working on: AWS + Terraform + Ansible + Kubernetes DevOps projects
-- 🌱 Learning: CI/CD, Infrastructure as Code, Container Orchestration, Monitoring
-- 💬 Ask me about: Linux, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
+- 🔭 Currently working on: Infrastructure as Code, Configuration Management & Kubernetes-based deployments
+- 🌱 Learning: CI/CD, Container Orchestration, Monitoring & Production-grade DevOps workflows
+- 💬 Ask me about: Linux, Docker, Kubernetes, Terraform, Ansible, Git & Jenkins
 - 📫 How to reach me: parths.singh2003@gmail.com
 
 ---
@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="left">☁️ DevOps & Cloud Stack:</h3>
+<h3 align="left">☁️ DevOps Stack:</h3>
 
 ### Core
 <p align="left">
@@ -43,13 +43,13 @@
 
 ### CI/CD
 <p align="left">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-### Cloud
+### Cloud & Virtualization
 <p align="left">
-<img src="https://img.shields.io/badge/AWS_Free_Tier-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Platforms-4285F4?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ### Monitoring (Learning & Implementing)
@@ -62,10 +62,11 @@
 
 <h3 align="left">🧪 Featured DevOps Projects:</h3>
 
-- 🔐 Secure EC2 Provisioning & Hardening using **Terraform + Ansible**
-- 🐳 CI Pipeline: **Jenkins building & pushing Docker images**
-- ☸️ Self-managed Kubernetes Cluster on AWS (IaC based setup)
-- 🔄 End-to-End DevOps Pipeline (Terraform → Ansible → Jenkins → Docker → Kubernetes)
+- 🔐 Secure Infrastructure Provisioning & OS Hardening using **Terraform + Ansible**
+- 🐳 CI Pipeline using **Jenkins for automated Docker image build & push**
+- ☸️ Self-managed **Kubernetes Cluster setup using Infrastructure as Code**
+- 🔄 End-to-End DevOps Workflow  
+  **Provision → Configure → Build → Containerize → Deploy on Kubernetes**
 
 ---
 
@@ -76,4 +77,3 @@
 ### ⭐ From code to cloud — building production-style infrastructure
 
 </div>
-
