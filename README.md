@@ -3,6 +3,7 @@
 - 🚀 DevOps & Cloud Engineer (Hands-on with real infrastructure projects)
 - 🔭 Currently working on: Infrastructure as Code, Configuration Management & Kubernetes-based deployments
 - 🌱 Learning: CI/CD, Container Orchestration, Monitoring & Production-grade DevOps workflows
+- 🧱 Focus: Reproducible, idempotent & production-style infrastructure
 - 💬 Ask me about: Linux, Docker, Kubernetes, Terraform, Ansible, Git & Jenkins
 - 📫 How to reach me: parths.singh2003@gmail.com
 
@@ -13,7 +14,7 @@
   <a href="https://www.linkedin.com/in/parthsingh-fsd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:parths.singh2003@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=parths.singh2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -46,10 +47,9 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-### Cloud & Virtualization
+### Cloud
 <p align="left">
 <img src="https://img.shields.io/badge/Cloud_Platforms-4285F4?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ### Monitoring (Learning & Implementing)
