@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 
-- 🚀 DevOps & Cloud Engineer (Hands-on with real infrastructure projects)
-- 🔭 Currently working on: Infrastructure as Code, Configuration Management & Kubernetes-based deployments
-- 🌱 Learning: CI/CD, Container Orchestration, Monitoring & Production-grade DevOps workflows
-- 🧱 Focus: Reproducible, idempotent & production-style infrastructure
+- 🚀 DevOps & Cloud Engineer focused on automation & production-style infrastructure
+- 🔭 Building reproducible environments using Infrastructure as Code & Configuration Management
+- 🌱 Learning: Advanced CI/CD, Kubernetes operations & Observability
+- 🧱 Focus: Reproducible, idempotent & scalable infrastructure workflows
 - 💬 Ask me about: Linux, Docker, Kubernetes, Terraform, Ansible, Git & Jenkins
 - 📫 How to reach me: parths.singh2003@gmail.com
 
@@ -62,11 +62,21 @@
 
 <h3 align="left">🧪 Featured DevOps Projects:</h3>
 
-- 🔐 Secure Infrastructure Provisioning & OS Hardening using **Terraform + Ansible**
-- 🐳 CI Pipeline using **Jenkins for automated Docker image build & push**
-- ☸️ Self-managed **Kubernetes Cluster setup using Infrastructure as Code**
-- 🔄 End-to-End DevOps Workflow  
-  **Provision → Configure → Build → Containerize → Deploy on Kubernetes**
+- 🔐 **Secure Infrastructure Provisioning & OS Hardening**  
+  → Automated server setup using Terraform + Ansible  
+  → Eliminated manual configuration & ensured idempotent deployments  
+
+- 🐳 **Jenkins CI Pipeline for Dockerized Applications**  
+  → Automated build & image push workflow  
+  → Reduced manual build effort and improved release consistency  
+
+- ☸️ **Self-Managed Kubernetes Cluster (IaC based setup)**  
+  → Provisioned infrastructure and deployed containerized workloads  
+  → Implemented declarative, repeatable deployment strategy  
+
+- 🔄 **End-to-End DevOps Workflow**  
+  → Provision → Configure → Build → Containerize → Deploy  
+  → Created a fully automated, production-style delivery pipeline  
 
 ---
 
@@ -74,7 +84,6 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 
-### ⭐ Focus: Reproducible, idempotent & production-style infrastructure
-
+### ⭐ From code to cloud — building scalable, automated infrastructure
 
 </div>
