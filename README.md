@@ -84,6 +84,7 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 
-### ⭐ From code to cloud — building scalable, automated infrastructure
+### ⭐ Focus: Reproducible, idempotent & production-style infrastructure
+
 
 </div>
